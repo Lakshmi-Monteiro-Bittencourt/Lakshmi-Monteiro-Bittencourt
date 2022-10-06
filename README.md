@@ -15,12 +15,15 @@ Typescript, MySQL , AWS
 
 
 📈 Looking for
+<br>
 I'm looking for opportunities to build a carreer as a Web Developer.
 
 👯 I'm looking to collaborate
+<br>
 Any opportunity attached with Web Developing.
 
 🎮 Hobbies
+<br>
 I love singing and playing the drums, as well as customizing my clothes and writing philosophical poems. I also see my passion for talking about philosophy and physics as a hobby because I do it with frequency and engagement...
 
 😄 Don't be shy, my social contacts are displayed below.
