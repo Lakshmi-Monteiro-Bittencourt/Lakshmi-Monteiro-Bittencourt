@@ -1,6 +1,5 @@
-<img src="[https://user-images.githubusercontent.com/78452566/140799812-a9c3a701-3b74-47fb-be11-c2363d68cd31.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F538716-brent-rambo&psig=AOvVaw1ElYuDGnAewgwWNIOxPiny&ust=1665152453181000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCID-1r7my_oCFQAAAAAdAAAAABAN)" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-Hi guys, how are you?! I'm Laksmin, I'm 24 years old. I currently live in Florianópolis - SC and I'm a junior fullStack developer recently graduated and thirsty for challenges and changes in programming logic. XD
+## Hi guys, how are you?! 
+I'm Laksmin, I'm 24 years old. I currently live in Florianópolis - SC and I'm a junior fullStack developer recently graduated and thirsty for challenges and changes in programming logic. XD
 
 🤔 Who am I?
 I think the first thing people notice about me is my mood. I'm always making some joke to relax folks and keep the mood light. Despite treating everyone with seriousness and sincerity. In addition to asking and questioning everything. I understand that I am an eternal learner and observing the wisest and exchanging knowledge is something that does not leave my daily to-do list. I really like to stay with my pets and watch thriller movies.
