@@ -1,3 +1,5 @@
+<img src="[https://user-images.githubusercontent.com/78452566/140799812-a9c3a701-3b74-47fb-be11-c2363d68cd31.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F538716-brent-rambo&psig=AOvVaw1ElYuDGnAewgwWNIOxPiny&ust=1665152453181000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCID-1r7my_oCFQAAAAAdAAAAABAN)" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 Hi guys, how are you?! I'm Laksmin, I'm 24 years old. I currently live in Florianópolis - SC and I'm a junior fullStack developer recently graduated and thirsty for challenges and changes in programming logic. XD
 
 🤔 Who am I?
@@ -30,5 +32,4 @@ I love singing and playing the drums, as well as customizing my clothes and writ
 
 <a href="https://api.whatsapp.com/send?phone=5548999389047" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" alt="whatsapp" height="30" width="110" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
