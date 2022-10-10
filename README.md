@@ -2,6 +2,7 @@
 I'm Laksmin, I'm 24 years old. I currently live in Florianópolis - SC and I'm a junior fullStack developer recently graduated and thirsty for challenges and changes in programming logic. XD
 
 🤔 Who am I?
+<br>
 I think the first thing people notice about me is my mood. I'm always making some joke to relax folks and keep the mood light. Despite treating everyone with seriousness and sincerity. In addition to asking and questioning everything. I understand that I am an eternal learner and observing the wisest and exchanging knowledge is something that does not leave my daily to-do list. I really like to stay with my pets and watch thriller movies.
 I'm also learning to play the drums and I have a Sludge/Doom duo, still unnamed haha!
 
